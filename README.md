@@ -23,5 +23,6 @@ L'url du JSON des différents centre de vaccination de doctolib
 ## Initialisation
 
 > npm i
+
 > node index.js
 
